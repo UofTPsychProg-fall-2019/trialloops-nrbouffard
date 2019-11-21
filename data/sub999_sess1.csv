@@ -1,0 +1,4 @@
+subj,trial,face,object,sceneFace,color,rating,rt,stimOn
+999,1,faces/2.jpg,objects/tomato01.jpg,face,r,1,1.571,1.1673402830056148
+999,2,faces/1.jpg,objects/pepper04a.jpg,face,r,3,1.553,3.7636156910011778
+999,3,faces/3.jpg,objects/portapotty.jpg,face,b,5,1.249,6.349000907008303
